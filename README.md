@@ -2,13 +2,17 @@
 
 [Read or download the six-page US Letter PDF](output/pdf/trochleitis-patient-voices.pdf).
 
+[Read or download the compact three-page alternative](output/pdf/trochleitis-patient-voices-compact.pdf). It contains the same 17 quotations, context notes and linked sources in a tighter layout with smaller type. The six-page edition remains the main version.
+
 17 excerpt cards from 8 public Reddit threads, organized under 14 editorial account labels. Labels refer to reported authors, not independently verified patients or medical case histories. The packet covers reported dismissal, referral barriers, injection access, distress and treatment experiences. These are typeset excerpts, not screenshots; Reddit blocked screenshot capture in the research browser on 13 November 2026.
 
 ## Build
 
 Use Python 3.10 or later. Install `requirements.txt`, then run `python build.py`. The default font path uses Debian/Ubuntu's `fonts-dejavu-core` package; edit `FONT_DIR` for another operating system. Output: `output/pdf/trochleitis-patient-voices.pdf`.
 
-The script checks card text against the reserved footer area and stops on overflow. The current PDF was rendered and visually reviewed at US Letter size: 6 pages, 17 clickable source links.
+Run `python build_compact.py` to rebuild the compact alternative from the same `sources.json`.
+
+The scripts check card text against the reserved footer area and stop on overflow. The current PDF was rendered and visually reviewed at US Letter size: 6 pages, 17 clickable source links.
 
 ## Sources and account labels
 
