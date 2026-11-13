@@ -1,5 +1,7 @@
 # Trochleitis patient voices
 
+[Read the introduction and clinical literature context](output/pdf/trochleitis-patient-voices-introduction.pdf). This separate three-page document contains two pages of narrative reviewing every account, followed by sources and scope notes. The [editable text](docs/introduction.md) cites four clinical sources and all eight public source threads.
+
 [Read or download the six-page US Letter PDF](output/pdf/trochleitis-patient-voices.pdf).
 
 [Read or download the compact three-page alternative](output/pdf/trochleitis-patient-voices-compact.pdf). It contains the same 17 quotations, context notes and linked sources in a tighter layout with smaller type. The six-page edition remains the main version.
@@ -10,7 +12,7 @@
 
 Use Python 3.10 or later. Install `requirements.txt`, then run `python build.py`. The default font path uses Debian/Ubuntu's `fonts-dejavu-core` package; edit `FONT_DIR` for another operating system. Output: `output/pdf/trochleitis-patient-voices.pdf`.
 
-Run `python build_compact.py` to rebuild the compact alternative from the same `sources.json`.
+Run `python build_compact.py` to rebuild the compact alternative from the same `sources.json`. Run `python build_introduction.py` to render the separate introduction from `docs/introduction.md`.
 
 The scripts check card text against the reserved footer area and stop on overflow. The current PDF was rendered and visually reviewed at US Letter size: 6 pages, 17 clickable source links.
 
