@@ -63,24 +63,7 @@ def main():
             para(c,'ACCOUNT '+r['account']+'  |  '+r['status'],51,footer+10,510,6.6,MUTED)
             para(c,'Source: '+short,51,footer,510,6.8,MUTED)
             c.linkURL(r['url'],(51,footer-10,560,footer+2),relative=0,thickness=0)
-        if page==6:
-            top=289
-            c.setFillColor(HexColor('#F2F5F6')); c.roundRect(38,top-165,536,165,6,fill=1,stroke=0)
-            y=para(c,'About this collection',51,top-12,510,11,INK,'Bold')
-            y=para(c,'17 excerpt cards across 8 public threads. Account labels organize posts; they are not verified medical case numbers. Shared labels indicate the same reported author. Cross-thread identities may overlap.',51,y-10,510,9,MUTED)
-            y=para(c,'English wording is verbatim except marked omissions and editorial notes. One Swedish excerpt is translated into English; the original is retained in sources.json. It has not been reviewed by its author.',51,y-9,510,9,MUTED)
-            para(c,'Selected anecdotes do not measure prevalence, prove negligence or establish which treatment any person needs. Sources were accessed 13 Nov 2026; indexed text may omit later developments.',51,y-9,510,9,MUTED)
-        notes=[
-          'Verbatim excerpt cards, not screenshots. Usernames omitted. Account 2.a and 2.b refer to the same commenter. Original spelling retained; bracketed notes are editorial.',
-          'These comments describe access concerns. Diagnosis, clinical need and the reasons for declining a procedure are not independently established.',
-          'Reported diagnoses and suspected cases are distinguished in the account labels. Treatment response and other possible causes remain part of the context.',
-          'The Swedish-language excerpt is translated into English. Language alone does not establish nationality or where care was sought. Translation has not been reviewed by the author.',
-          'Account 8.b claims continuity with 8.a through a new username; that link is self-reported. The follow-up date and its reference to a November appointment do not align clearly.',
-          'Public reports are leads for further reporting. Seek author consent before identification or interviews, and independently check medical or institutional allegations before publication.'
-        ]
-        para(c,notes[page-1],38,96,536,7.4,MUTED,leading=10)
         c.setStrokeColor(HexColor('#D4DDE1')); c.line(38,50,574,50)
-        para(c,'PUBLIC ACCOUNTS  /  SOURCE LINKS INCLUDED',38,37,485,7,MUTED)
         para(c,f'{page} / 6',542,37,32,7,MUTED)
         c.showPage()
     c.save()

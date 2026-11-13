@@ -61,20 +61,13 @@ def main():
     c.setTitle('Trochleitis patient voices - compact edition')
     c.setAuthor('Patient advocacy source collection')
     headings=['Being heard and finding care','Pain, waiting and referral barriers','Uncertainty, follow-up and relief']
-    notes=[
-      '17 excerpts / 8 public threads. These are typeset excerpts, not screenshots. Shared account numbers indicate the same reported author; labels are not verified medical case numbers.',
-      'Swedish translation is marked; original wording is retained in sources.json. Language does not establish location. Account 8.b self-identifies as 8.a using a new username; this link is unverified.',
-      'Selected anecdotes do not establish prevalence, negligence or individual treatment need. Sources accessed 13 Nov 2026. Indexed text can omit updates. Verify sources and allegations before publication.'
-    ]
     for index,group in enumerate(groups):
         c.setFillColor(HexColor(INK));c.rect(0,786,612,6,fill=1,stroke=0)
         draw(c,'PATIENT VOICES / TROCHLEITIS / COMPACT EDITION',760,8,ACCENT,True,x=34,width=544)
         draw(c,headings[index],741,19,INK,True,x=34,width=544)
         y=710
         for record in group: y=card(c,record,y)
-        draw(c,notes[index],83,7,MUTED,x=34,width=544)
         c.setStrokeColor(HexColor('#D4DDE1'));c.line(34,43,578,43)
-        draw(c,'SAME SOURCE COLLECTION AS THE SIX-PAGE EDITION',32,6.5,MUTED,x=34,width=480)
         draw(c,f'{index+1} / 3',32,6.5,MUTED,x=548,width=30)
         c.showPage()
     c.save()
