@@ -1,5 +1,11 @@
 # Trochleitis patient voices
 
+<p align="center">
+  <a href="assets/trochleitis-how-much-longer.jpg">
+    <img src="assets/trochleitis-how-much-longer.jpg" alt="Comic-style poster about trochleitis and trochleodynia: When Every Glance Hurts — How Much Longer?" width="640">
+  </a>
+</p>
+
 [Read the standalone document on trochleitis and barriers to care](output/pdf/trochleitis-care-gap.pdf), grounded only in clinical publications, with no reference to the collected accounts. [Editable text](docs/trochleitis-care-gap.md).
 
 [Read the introduction and clinical literature context](output/pdf/trochleitis-patient-voices-introduction.pdf). This separate three-page document contains two pages of narrative reviewing every account, followed by sources and scope notes. The [editable text](docs/introduction.md) cites four clinical sources and all eight public source threads.
