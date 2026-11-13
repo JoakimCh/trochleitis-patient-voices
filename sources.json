@@ -8,7 +8,11 @@
     "url": "https://www.reddit.com/r/Occipitalneuralgia/comments/1ax1wwe/trochleitis_anyone_else/",
     "quote": "For the next few years it was really a battle of “my right eye hurts, many times more than the migraine itself please take this seriously” with a response of “you have ON, of course it hurts”. Then I basically took it into my own hands to schedule with neuro opthamology.",
     "context": "The original poster described a specialist identifying likely trochleitis and providing an injection. They praised that specialist's care. ON = occipital neuralgia.",
-    "status": "Likely trochleitis identified by specialist, as reported"
+    "status": "Likely trochleitis identified by specialist, as reported",
+    "account": "1",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/Occipitalneuralgia; Comment date not independently verified; thread opened 22 Feb 2024; search exact quoted text within thread"
   },
   {
     "id": "02",
@@ -18,8 +22,12 @@
     "date": "24 Jan 2024",
     "url": "https://www.reddit.com/r/migraine/comments/wwnd3q/trochleitis/",
     "quote": "I've been having pain for 6 months in this area and it took that long to get to a doctor who recognized what the problem was.",
-    "context": "This commenter had received a cortisone injection. On 16 Jun 2024, they reported being pain-free in the trochlea after three injections. Same commenter as excerpt 03.",
-    "status": "Trochleitis treatment reported"
+    "context": "Cortisone injection reported. On 16 Jun 2024, this commenter reported pain-free trochlea after three injections. Same account as 2.b.",
+    "status": "Trochleitis treatment reported",
+    "account": "2.a",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/migraine; 24 Jan 2024; search exact quoted text within thread"
   },
   {
     "id": "03",
@@ -29,8 +37,12 @@
     "date": "25 Jan 2024",
     "url": "https://www.reddit.com/r/migraine/comments/wwnd3q/trochleitis/",
     "quote": "He refused to listen to me and kept saying \"burning means surface\" telling me I had dry eyes",
-    "context": "An excerpt from the same person's referral journey as 02. They also described other facial pain; trochlear pain later resolved after injections.",
-    "status": "Same account as 02; additional facial pain reported"
+    "context": "Same person as 2.a; additional facial pain reported. Trochlear pain later resolved after injections.",
+    "status": "Same author as Account 2.a; additional facial pain reported",
+    "account": "2.b",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/migraine; 25 Jan 2024; search exact quoted text within thread"
   },
   {
     "id": "04",
@@ -41,7 +53,11 @@
     "url": "https://www.reddit.com/r/migraine/comments/wwnd3q/trochleitis/",
     "quote": "how did you find a doctor to do the injection? i’ve asked 2 ophthalmologists so far and they refuse to do the injection",
     "context": "A different commenter asks for help accessing an injection. Their diagnosis and the clinicians' reasons for declining are not stated in this comment.",
-    "status": "Diagnosis not established in the quoted comment"
+    "status": "Diagnosis not established in the quoted comment",
+    "account": "3",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/migraine; 24 Jan 2024; search exact quoted text within thread"
   },
   {
     "id": "05",
@@ -52,7 +68,11 @@
     "url": "https://www.reddit.com/r/migraine/comments/wwnd3q/trochleitis/",
     "quote": "It only helps for 3-4 days and then the pain is back. I can’t find anyone to give the actual injection in the correct location.",
     "context": "Another commenter describes a dispute about injection location. This is the patient's assessment; the collection does not verify anatomy, technique or clinical appropriateness.",
-    "status": "Trochleitis discussion; diagnosis not independently verified"
+    "status": "Trochleitis discussion; diagnosis not independently verified",
+    "account": "4",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/migraine; 29 Jan 2024; search exact quoted text within thread"
   },
   {
     "id": "06",
@@ -63,7 +83,11 @@
     "url": "https://www.reddit.com/r/NDPH/comments/1f1hclp",
     "quote": "what happened.  im going to g through hell with this as well.  cant find someoto do the injection",
     "context": "A reply in a thread about possible trochleitis. The reply does not establish a diagnosis. Original spelling is retained. NDPH = new daily persistent headache.",
-    "status": "Suspected or unspecified diagnosis"
+    "status": "Suspected or unspecified diagnosis",
+    "account": "5",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/NDPH; 6 Sep 2024; search exact quoted text within thread"
   },
   {
     "id": "07",
@@ -74,7 +98,11 @@
     "url": "https://www.reddit.com/r/PainManagement/comments/f7myrd/anyone_here_with_trochleitis_or_trigeminal/",
     "quote": "I've been struggling with severe trochleitis and trigeminal neuralgia, and I'm starting to lose hope.\n[28 Mar 2020 reply:] And now my doctors are postponing all their appointments because of the covid-19, and I'm so afraid that I'll be in pain forever.",
     "context": "Two excerpts from the same poster. Injections had provided partial relief. The later interruption was described during the COVID-19 pandemic.",
-    "status": "Trochleitis and trigeminal neuralgia self-reported"
+    "status": "Trochleitis and trigeminal neuralgia self-reported",
+    "account": "6",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/PainManagement; 22 Feb and 28 Mar 2020; search exact quoted text within thread"
   },
   {
     "id": "08",
@@ -85,7 +113,11 @@
     "url": "https://www.reddit.com/r/ChronicPain/comments/1e4s88z/pain_in_one_eye_for_6_months_at_my_wits_end/",
     "quote": "I see the oculoplastic, who diagnoses it as Trochleitis and gives me a steroid injection above the eye. No relief. I visit the doctor again, and they have no recommendations. They don't recommend another injection, because it has its own risks and didn't help the first time.",
     "context": "From a post titled “Pain in one eye for 6 months - at my wit's end”. The poster also described Crohn's disease and further specialist investigation.",
-    "status": "Diagnosis by oculoplastic clinician, as reported"
+    "status": "Diagnosis by oculoplastic clinician, as reported",
+    "account": "7",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/ChronicPain; 16 Jul 2024; search exact quoted text within thread"
   },
   {
     "id": "09",
@@ -95,7 +127,133 @@
     "date": "26 Aug 2024",
     "url": "https://www.reddit.com/r/NDPH/comments/1f1hclp",
     "quote": "I have been in constant 24/7 pain behind my eyes and by the bridge of my nose.\n\n[...]\n\nI am extremely scared and in pain and I don’t know what to do.",
-    "context": "The poster said there was a good chance of trochleitis and was waiting for an MRI. This is a suspected case, not a confirmed diagnosis. Bracketed text marks an omission.",
-    "status": "Possible trochleitis; investigation pending"
+    "context": "Possible trochleitis; MRI pending. See the self-attributed follow-up, Account 8.b. Brackets mark an omission.",
+    "status": "Possible trochleitis; investigation pending",
+    "account": "8.a",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/NDPH; 26 Aug 2024; search exact quoted text within thread"
+  },
+  {
+    "id": "10",
+    "page": 4,
+    "account": "9",
+    "title": "Looking for a doctor who knows the condition",
+    "community": "r/Occipitalneuralgia",
+    "date": "24 May 2025",
+    "url": "https://www.reddit.com/r/Occipitalneuralgia/comments/1ax1wwe/trochleitis_anyone_else/",
+    "quote": "I need to find a doctor who is familiar with the condition. And I want to try a cortisone injection.",
+    "context": "English translation from Swedish. The commenter suspects trochleitis and also reports occipital neuralgia. Location is not established.",
+    "status": "Suspected trochleitis",
+    "original_language": "sv",
+    "accessed": "2026-11-13",
+    "original_quote": "Jag behöver få tag i en läkare som är bekant med tillståndet. Och jag vill prova kortisoninjektion.",
+    "translation_note": "English translation prepared for this collection; not author-approved. Original retained in sources.json.",
+    "source_locator": "r/Occipitalneuralgia; 24 May 2025; search exact quoted text within thread"
+  },
+  {
+    "id": "11",
+    "page": 4,
+    "account": "10",
+    "title": "Turned away from neuro-ophthalmology",
+    "community": "r/eyestrain",
+    "date": "21 Jul 2026",
+    "url": "https://www.reddit.com/r/eyestrain/comments/1v2kyoi/trochleitis/",
+    "quote": "Constant pain on inner corner of eye especially when reading up close or on computer. I don’t know what it takes to get a diagnosis because I’ve been to numerous ophthalmologists and turned away from neuro ophthalmology.",
+    "context": "The poster asks about trochleitis; no confirmed diagnosis is given. A later reply suggests a specialist, without documenting the poster receiving care.",
+    "status": "Undiagnosed; asking about trochleitis",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/eyestrain; 21 Jul 2026; search exact quoted text within thread"
+  },
+  {
+    "id": "12",
+    "page": 4,
+    "account": "11",
+    "title": "Six months of pain after eye surgery",
+    "community": "r/ChronicPain",
+    "date": "1 Feb 2026",
+    "url": "https://www.reddit.com/r/ChronicPain/comments/1qt7ui5/does_anyone_have_trochleitis/",
+    "quote": "its been 6 months and the pain is not going away and doctors are not helping me (shocking)",
+    "context": "The poster links onset to PRK surgery and asks about trochleitis. The cause and diagnosis are unverified. Account 14 is a different commenter in this thread.",
+    "status": "Suspected trochleitis after PRK, as reported",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/ChronicPain; 1 Feb 2026; search exact quoted text within thread"
+  },
+  {
+    "id": "13",
+    "page": 5,
+    "account": "12.a",
+    "title": "Specialist after specialist, still losing hope",
+    "community": "r/ThyroidEyeDisease",
+    "date": "6 Apr 2023",
+    "url": "https://www.reddit.com/r/ThyroidEyeDisease/comments/12d34wf",
+    "quote": "I’m looking for anyone who has thoughts on my situation — I’ve been to a bunch of specialists and I’m beginning to lose hope.",
+    "context": "An ophthalmologist had diagnosed trochleitis, according to the post. Later symptoms prompted investigation of other causes. Thyroid eye disease was suspected, not confirmed.",
+    "status": "Earlier trochleitis diagnosis reported; broader diagnosis unresolved",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/ThyroidEyeDisease; 6 Apr 2023; search exact quoted text within thread"
+  },
+  {
+    "id": "14",
+    "page": 5,
+    "account": "12.b",
+    "title": "An orbital MRI denied by insurance",
+    "community": "r/ThyroidEyeDisease",
+    "date": "6 Apr 2023",
+    "url": "https://www.reddit.com/r/ThyroidEyeDisease/comments/12d34wf",
+    "quote": "a neuro-opthamalogist who ordered an MRI of my eyes that just got denied by my insurance, so who knows if that test is going to happen.",
+    "context": "Same post as 12.a. The author also feared losing their writing job because reading a screen had become difficult. This does not establish that all symptoms were trochleitis.",
+    "status": "Same author and post as 12.a",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/ThyroidEyeDisease; 6 Apr 2023; search exact quoted text within thread"
+  },
+  {
+    "id": "15",
+    "page": 5,
+    "account": "8.b",
+    "title": "Still struggling while searching for treatment",
+    "community": "r/NDPH",
+    "date": "28 Dec 2024",
+    "url": "https://www.reddit.com/r/NDPH/comments/1f1hclp",
+    "quote": "I am still struggling immensely and every day is truly nothing short of hell, I honestly am questioning how I’m even still here.",
+    "context": "The reply identifies itself as the author of 8.a using a new account; not independently verified. A specialist was found, but treatment was not confirmed. Timing references are inconsistent.",
+    "status": "Possible trochleitis; self-attributed follow-up",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/NDPH; 28 Dec 2024; search exact quoted text within thread"
+  },
+  {
+    "id": "16",
+    "page": 6,
+    "account": "13",
+    "title": "Excruciating pain, with treatment that helps",
+    "community": "r/Occipitalneuralgia",
+    "date": "18 Apr 2024",
+    "url": "https://www.reddit.com/r/Occipitalneuralgia/comments/1ax1wwe/trochleitis_anyone_else/",
+    "quote": "The pain is excruciating and plays off my migraines and the reverse.",
+    "context": "Diagnosis and recurring injection benefit reported. The commenter praised rapid access from their doctor; this illustrates pain burden, not denial of care.",
+    "status": "Diagnosed trochleitis and treatment benefit, as reported",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/Occipitalneuralgia; 18 Apr 2024; search exact quoted text within thread"
+  },
+  {
+    "id": "17",
+    "page": 6,
+    "account": "14",
+    "title": "Relief made the pain feel validated",
+    "community": "r/ChronicPain",
+    "date": "20 Feb 2026",
+    "url": "https://www.reddit.com/r/ChronicPain/comments/1qt7ui5/does_anyone_have_trochleitis/",
+    "quote": "Its absolutely amazing knowing how well the shots actually worked. I couldn't believe it for a few days. But after getting symptoms back yesterday, I feel validated that its a real issue!",
+    "context": "A different commenter from Account 11 reports diagnosis and 17 days of relief after an injection. Symptoms then returned. This is a positive access experience.",
+    "status": "Diagnosis and temporary injection benefit, as reported",
+    "original_language": "en",
+    "accessed": "2026-11-13",
+    "source_locator": "r/ChronicPain; 20 Feb 2026; search exact quoted text within thread"
   }
 ]
